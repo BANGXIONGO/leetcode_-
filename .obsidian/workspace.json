@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93d15f1a6b61f9af",
+        "id": "9a405b818207b45b",
         "type": "tabs",
         "children": [
           {
-            "id": "68cd70691864f48d",
+            "id": "97e08e446c0911cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,177 +16,8 @@
               "icon": "lucide-file",
               "title": "新标签页"
             }
-          },
-          {
-            "id": "7c68ed60edce6a36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "链表/143 重排链表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "143 重排链表"
-            }
-          },
-          {
-            "id": "e83d5a9491ddb352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "回溯/回溯三问.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "回溯三问"
-            }
-          },
-          {
-            "id": "90eb72b771b58e74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "回溯/回溯三问.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "回溯三问"
-            }
-          },
-          {
-            "id": "1367588998b9d4c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哈希表/1.两数之和.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.两数之和"
-            }
-          },
-          {
-            "id": "370acedd23ad12db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哈希表/1.两数之和.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.两数之和"
-            }
-          },
-          {
-            "id": "5903551254efb7af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "双指针/三数之和.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "三数之和"
-            }
-          },
-          {
-            "id": "d996f8b54a62aa9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "双指针/盛最多水的容器.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "盛最多水的容器"
-            }
-          },
-          {
-            "id": "2dfe156c2d97767e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "双指针/42.接雨水.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "42.接雨水"
-            }
-          },
-          {
-            "id": "d02ff18020730eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "2a46838c8c024c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动态规划/3.无重复字符串.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.无重复字符串"
-            }
-          },
-          {
-            "id": "09a74e8b90923be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "二叉树/递归.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "递归"
-            }
-          },
-          {
-            "id": "e876412f82acf23b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "二叉树/递归.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "递归"
-            }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -335,36 +166,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e876412f82acf23b",
+  "active": "97e08e446c0911cc",
   "lastOpenFiles": [
+    "链表/143 重排链表.md",
+    "回溯/回溯三问.md",
+    "哈希表/1.两数之和.md",
+    "双指针/三数之和.md",
+    "双指针/盛最多水的容器.md",
+    "双指针/42.接雨水.md",
+    "未命名.md",
+    "动态规划/3.无重复字符串.md",
+    "二叉树/递归.md",
     "二叉树/assets/递归/file-20251120191418941.png",
     "二叉树/assets/递归/file-20251120191349726.png",
-    "二叉树/递归.md",
     "二叉树/assets/递归",
     "二叉树/assets",
     "未命名.base",
     "滑动窗口/思考框架.md",
     "哈希表/128. 最长连续序列.md",
-    "动态规划/3.无重复字符串.md",
     "动态规划/概述.md",
     "递归",
     "二叉树",
-    "未命名.md",
-    "双指针/42.接雨水.md",
     "动态规划",
     "滑动窗口/239. 滑动窗口最大值.md",
-    "哈希表/1.两数之和.md",
     "滑动窗口",
-    "双指针/盛最多水的容器.md",
-    "双指针/三数之和.md",
     "欢迎.md",
     "双指针",
     "未命名 1.md",
     "哈希表/49. 字母异位词分组.md",
-    "回溯/回溯三问.md",
     "哈希表",
     "回溯/Pasted image 20250428095036.png",
-    "链表/143 重排链表.md",
     "回溯"
   ]
 }
