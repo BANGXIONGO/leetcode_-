@@ -11,10 +11,14 @@
             "id": "97e08e446c0911cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "二分查找/74. 搜索二维矩阵.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "74. 搜索二维矩阵"
             }
           }
         ]
@@ -168,6 +172,10 @@
   },
   "active": "97e08e446c0911cc",
   "lastOpenFiles": [
+    "哈希表/49. 字母异位词分组.md",
+    "二分查找/74. 搜索二维矩阵.md",
+    "未命名 2.md",
+    "二分查找",
     "链表/143 重排链表.md",
     "回溯/回溯三问.md",
     "哈希表/1.两数之和.md",
@@ -192,10 +200,7 @@
     "滑动窗口",
     "欢迎.md",
     "双指针",
-    "未命名 1.md",
-    "哈希表/49. 字母异位词分组.md",
     "哈希表",
-    "回溯/Pasted image 20250428095036.png",
-    "回溯"
+    "回溯/Pasted image 20250428095036.png"
   ]
 }
