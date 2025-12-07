@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "fccd669db654172c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
+          },
+          {
             "id": "ac2a278d3b2c0c73",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b917e3415aeb8d7e",
+  "active": "fccd669db654172c",
   "lastOpenFiles": [
     "二分查找/34. 在排序数组中查找元素的第一个和最后一个位置.md",
     "4. 寻找两个正序数组的中位数.md",
